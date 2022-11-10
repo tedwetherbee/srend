@@ -1,3 +1,4 @@
+/*
 Srend   2022nov07 (v 20221107)   Ted Wetherbee   
 Contact: ted@fdltcc.edu  .OR.  ted@tedwetherbee.org
 Available:  https://srend.nongnu.org  .OR.  https://tedwetherbee.org/srend
@@ -71,7 +72,7 @@ vrd.F90, and t_* test code files
  ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN 
  CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
  SOFTWARE.
-
+*/
 
 LICENSE regarding LodePNG code (lodepng.c and lodpng.H) within srendc.c
 /*
