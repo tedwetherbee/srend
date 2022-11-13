@@ -4,9 +4,8 @@
 Contact: ted@fdltcc.edu  OR  ted@tedwetherbee.org
 
 Available:  https://tedwetherbee.org/srend  and  https://github.com/tedwetherbee/srend
-```
-Earlier versions are available at http://srend.nongnu.org  
-```
+
+Earlier versions are available at `http://srend.nongnu.org`  
 
 **********************************************************************
 ## srend.zip contains the following
