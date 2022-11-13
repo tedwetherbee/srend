@@ -6,11 +6,14 @@ Available:  https://tedwetherbee.org/srend
             https://github.com/tedwetherbee/srend
 
 **********************************************************************
+```
 MANUALS
 srend_man.pdf
 vrd_man.pdf
+```
 
 **********************************************************************
+```
 SOURCE in src/
 Srend files:   srend.F90   Fortran Srend code
                srendc.c    C code for sleep routines, and LodePNG
@@ -31,8 +34,9 @@ Vrd scripts    vrd.script* Vrd scripts exercises Vrd features
 Vrd data       vrd*bob*    Fortran programs to generate BOB data
                            for Vrd scripts
                            
-                           
+```                 
 **********************************************************************
+```
 QUICKSTART to test Srend and Vrd with test t_* programs
 
 1. cd src
@@ -46,3 +50,4 @@ Errors = 0.  63MB of images and movies should be created.  If ffmpeg
 was not in the path, movies won't exist.
 
 It is helpful to have several CPU cores for MPI tests, but not required.
+```
