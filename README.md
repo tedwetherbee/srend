@@ -7,15 +7,16 @@ Available:  https://tedwetherbee.org/srend  and  https://github.com/tedwetherbee
 ```
 Earlier versions are available at http://srend.nongnu.org  
 ```
-The file srend.zip contains the following.
+
 **********************************************************************
+#### srend.zip contains the following.
+
 #### MANUALS
 ```
 srend_man.pdf
 vrd_man.pdf
 ```
 
-**********************************************************************
 #### SOURCE in src/
 ```
 Srend files:   srend.F90   Fortran Srend code
@@ -36,7 +37,6 @@ Vrd:           vrd.F90     Source code for Vrd
 Vrd scripts    vrd.script* Vrd scripts exercises Vrd features
 Vrd data       vrd*bob*    Fortran programs to generate BOB data
                            for Vrd scripts
-                           
 ```                 
 **********************************************************************
 #### QUICKSTART to test Srend and Vrd with test t_* programs
