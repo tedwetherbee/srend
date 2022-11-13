@@ -5,16 +5,17 @@ Available:  https://tedwetherbee.org/srend  and  https://github.com/tedwetherbee
 ```
 Earlier versions are available at http://srend.nongnu.org  
 ```
+The file srend.zip contains the following.
 **********************************************************************
+#### MANUALS
 ```
-MANUALS
 srend_man.pdf
 vrd_man.pdf
 ```
 
 **********************************************************************
+#### SOURCE in src/
 ```
-SOURCE in src/
 Srend files:   srend.F90   Fortran Srend code
                srendc.c    C code for sleep routines, and LodePNG
                            written by Lode Vandevenne.  LodePNG  
@@ -36,9 +37,8 @@ Vrd data       vrd*bob*    Fortran programs to generate BOB data
                            
 ```                 
 **********************************************************************
+#### QUICKSTART to test Srend and Vrd with test t_* programs
 ```
-QUICKSTART to test Srend and Vrd with test t_* programs
-
 1. cd src
 2. edit t.sh to select/add compilers with MPI library
 3. chmod 755 t.sh
