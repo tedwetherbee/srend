@@ -1,12 +1,12 @@
 Srend   2022nov07 (v 20221107)   Ted Wetherbee   
 Contact: ted@fdltcc.edu  .OR.  ted@tedwetherbee.org
 ### Spherical Volume Renderer
-```
 Available:  https://tedwetherbee.org/srend 
-              and
+
             https://github.com/tedwetherbee/srend
 ```
 Earlier versions are available at http://srend.nongnu.org  
+```
 **********************************************************************
 ```
 MANUALS
