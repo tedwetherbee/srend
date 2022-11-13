@@ -9,7 +9,7 @@ Earlier versions are available at http://srend.nongnu.org
 ```
 
 **********************************************************************
-#### srend.zip contains the following.
+## srend.zip contains the following.
 
 #### MANUALS
 ```
