@@ -39,7 +39,7 @@ Vrd data       vrd*bob*    Fortran programs to generate BOB data
                            for Vrd scripts
 ```                 
 **********************************************************************
-#### QUICKSTART to test Srend and Vrd with test t_* programs
+## Quickstart to test Srend and Vrd with test t_* programs
 ```
 1. cd src
 2. edit t.sh to select/add compilers with MPI library
